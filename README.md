@@ -1,1 +1,2 @@
 # Google-Professional-CyberSecurity-Certificate-Portfolio-Activities
+This repository contains all project activities comopleted while working on the Google Professional Cybersecurity certificate. The activities are a way to practice all the skills learned during each course present in the certificate. The activities include , but are not limited to the following: Network analysis using a packet sniffer, Querying Databases using MySQL, Navigating file permissions and directories using Linux, Automating cybersecuruty tasks with python etc. 
